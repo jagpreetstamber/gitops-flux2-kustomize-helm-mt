@@ -10,3 +10,4 @@ spec:
     name: cluster-config
   path: ./infrastructure
   prune: true
+  suspend: true
